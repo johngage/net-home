@@ -22,7 +22,9 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: ./camp.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: camp.jpg  # Image path relative to your `assets/media/` folder
+    width: 200px
+    height: 100px
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     
     # Call to action button (optional).
