@@ -15,7 +15,7 @@ interval: false
 height: 500 #px or nothing?
 
 item:
-  - title: "Hi,there, John"
+  - title: "Hi,there, John 357pm"
     content: 'I am center aligned 😄'
     # Choose `center`, `left`, or `right` alignment.
     align: center
