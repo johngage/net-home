@@ -39,29 +39,29 @@ item:
     overlay_color: '#555'
     overlay_img: 'PHOTO-2021-02-10-16-58-20.jpg'
     overlay_filter: 0.5
-  - title: IMG_9276.png
+  - title: IMG_9305.png
     content: 'I am right aligned 😄'
     align: right
     overlay_color: '#333'
-    overlay_img: 'IMG_9276.png'
+    overlay_img: 'IMG_9305.png'
     overlay_filter: 0.5
   - title: KTC.1 
     content: 'I am left aligned 😄'
     align: left
     overlay_color: '#555'
-    overlay_img: ''
+    overlay_img: 'KTCWaterTreatment.tiff'
     overlay_filter: 0.5
-  - title: KTC.2
+  - title: KTC.2 gif
     content: 'I am right aligned 😄'
     align: right
     overlay_color: '#333'
-    overlay_img: ''
+    overlay_img: 'Safaricom.gif'
     overlay_filter: 0.5
-  - title: KTC.3
+  - title: KTC.3 svg
     content: 'I am left aligned 😄'
     align: left
     overlay_color: '#555'
-    overlay_img: ''
+    overlay_img: 'JupyterConsole.svg'
     overlay_filter: 0.5
   - title: KTC.4
     content: 'I am right aligned 😄'
@@ -69,5 +69,8 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
+  - title: another jpg
+    content: 'picture of Darfur'
+    overlay_img: '2080627_065628.jpg'
     
 ---
