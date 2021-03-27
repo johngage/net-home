@@ -12,7 +12,7 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 300px
+height: 500 #px or nothing?
 
 item:
   - title: "Hi,there, John"
