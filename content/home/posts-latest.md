@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 1
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -52,7 +52,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
