@@ -1,6 +1,7 @@
 widget: slider
 headless: true  # This file represents a page section.
 title: "Slider Test"
+active: true
 
 # ... Put Your Section Options Here (section position etc.) ...
 weight: 10
