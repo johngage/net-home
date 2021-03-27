@@ -22,16 +22,16 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: camp.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: ./camp.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Download my app
-    cta_url: 'https://example.org'
-    cta_icon_pack: fas
-    cta_icon: graduation-cap
+    #cta_label: Download my app
+    #cta_url: 'https://example.org'
+    #cta_icon_pack: fas
+    #cta_icon: graduation-cap
     
   - title: PHOTO-2021-02-10-16-58-20
     content: 'I am left aligned 😄'
