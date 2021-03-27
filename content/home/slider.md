@@ -43,5 +43,29 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
+- title: KTC.1
+    content: 'I am left aligned 😄'
+    align: left
+    overlay_color: '#555'
+    overlay_img: ''
+    overlay_filter: 0.5
+  - title: KTC.2
+    content: 'I am right aligned 😄'
+    align: right
+    overlay_color: '#333'
+    overlay_img: ''
+    overlay_filter: 0.5
+- title: KTC.3
+    content: 'I am left aligned 😄'
+    align: left
+    overlay_color: '#555'
+    overlay_img: ''
+    overlay_filter: 0.5
+  - title: KTC.4
+    content: 'I am right aligned 😄'
+    align: right
+    overlay_color: '#333'
+    overlay_img: ''
+    overlay_filter: 0.5
     
 ---
