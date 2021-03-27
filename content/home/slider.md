@@ -67,7 +67,7 @@ item:
     content: 'I am right aligned 😄'
     align: right
     overlay_color: '#333'
-    overlay_img: ''
+    overlay_img: '20180627_065628.jpg'
     overlay_filter: 0.5
   - title: another jpg
     content: 'picture of Darfur'
