@@ -1,5 +1,12 @@
-### This is the top
-and we want pictures here
+---
+weight: 1
+title: Early Days
+---
+
+
+
+### This is the big visit...
+and we want pictures 
 
 {{< gallery-slider dir="/media/" width="800px" height="800px" auto-slide="2000" >}}
 
