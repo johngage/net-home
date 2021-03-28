@@ -5,5 +5,4 @@ and we want pictures here
 And going to another directory:
 
 
-{{< gallery-slider dir="/assets/media/" >}}
 
